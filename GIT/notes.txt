@@ -1,0 +1,6 @@
+-----------------------------------------------configuration commands
+git config user.name   -> to check
+git config user.email  -> to check
+
+
+
